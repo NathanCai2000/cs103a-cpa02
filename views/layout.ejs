@@ -20,26 +20,8 @@
         <a class="navbar-brand" href="/">CPA02 Bot Find App</a>     
         
       </nav>
-      <div class="row">
-        <div class="col-sm-5">
-            <h2>Robot Search</h2>
-            <form method="post" action="/byName">
-                Robot Name: <input type="text" name="botname"><br>
-                <input type="submit">
-            </form>
-            <form method="post" action="/byClass">
-                List all in Weight class: <input type="text" name="weightclass"><br>
-                <input type="submit">
-            </form>
-            <form method="post" action="/byTeam">
-                List all in Team name: <input type="text" name="teamname"><br>
-                <input type="submit">
-            </form>
-            <form method="post" action="/byBuilder">
-                List all from Builder: <input type="text" name="buildername"><br>
-                <input type="submit">
-          </form>
-        </div>
+    
     </div>
-    </div>
+    <%- body %>
+  </body>
 </html>

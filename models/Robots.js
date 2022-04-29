@@ -7,7 +7,7 @@ const Mixed = Schema.Types.Mixed;
 var courseSchema = Schema( {
     team: String,
     builder: String,
-    class: String,
+    weightclass: String,
     botname: String,
 } );
 
