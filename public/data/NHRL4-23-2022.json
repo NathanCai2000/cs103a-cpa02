@@ -1,0 +1,490 @@
+[
+    {
+        "team": " ",
+        "builder": "Robert Rund",
+        "class": "3lb",
+        "botname": "Wreckfest"
+    },
+    {
+        "team": " ",
+        "builder": "Robert Walsh",
+        "class": "3lb",
+        "botname": "Apex"
+    },
+    {
+        "team": " ",
+        "builder": "Matthew Vasquez",
+        "class": "12lb",
+        "botname": "Whomper"
+    },
+    {
+        "team": " ",
+        "builder": "Matthew Vasquez",
+        "class": "3lb",
+        "botname": "Crunch Roll Supreme"
+    },
+    {
+        "team": "Black Adder",
+        "builder": "AJ Torizzo",
+        "class": "3lb",
+        "botname": "Black Adder"
+    },
+    {
+        "team": "NU Robotics",
+        "builder": "Michael Ambrozie",
+        "class": "3lb",
+        "botname": "Omega"
+    },
+    {
+        "team": "AGVS",
+        "builder": "Thomaz Felipe de Rocco",
+        "class": "3lb",
+        "botname": "Sombra"
+    },
+    {
+        "team": "AGVS",
+        "class": "3lb",
+        "botname": "Wasabi"
+    },
+    {
+        "team": "AGVS",
+        "class": "3lb",
+        "botname": "Alooco!"
+    },
+    {
+        "team": "AGVS",
+        "class": "12lb",
+        "botname": "Sombra"
+    },
+    {
+        "team": "Blues Dog Bots",
+        "builder": "Steve Campbell",
+        "class": "3lb",
+        "botname": "Tiefschlag"
+    },
+    {
+        "team": "Blues Dog Bots",
+        "class": "3lb",
+        "botname": "ZZ Bot"
+    },
+    {
+        "team": " ",
+        "builder": "Glenn Boxell",
+        "class": "3lb",
+        "botname": "Caldera"
+    },
+    {
+        "team": "Team Kill Shot",
+        "builder": "Zachary Orlov",
+        "class": "3lb",
+        "botname": "Lunch Break"
+    },
+    {
+        "team": "Team Bot Hunter",
+        "builder": "Justin Hunter",
+        "class": "3lb",
+        "botname": "Harvester"
+    },
+    {
+        "team": "NU Robotics 2",
+        "builder": "Naomi Cooke",
+        "class": "3lb",
+        "botname": "Real Steel"
+    },
+    {
+        "team": " ",
+        "builder": "Tyler Nguyen",
+        "class": "3lb",
+        "botname": "Dread Hades"
+    },
+    {
+        "team": " ",
+        "builder": "Calvin Iba",
+        "class": "3lb",
+        "botname": "Mixtape"
+    },
+    {
+        "team": " ",
+        "builder": "Calvin Iba",
+        "class": "3lb",
+        "botname": "Lynx"
+    },
+    {
+        "team": "Team Just 'Cuz Robotics",
+        "builder": "Seth Schaffer",
+        "class": "3lb",
+        "botname": "Division"
+    },
+    {
+        "team": "Team Shreddit",
+        "builder": "Angel Vidal",
+        "class": "3lb",
+        "botname": "Hurt Caboose"
+    },
+    {
+        "team": "Udder Destruction",
+        "builder": "Tamara Doherty",
+        "class": "12lb",
+        "botname": "MilkTank"
+    },
+    {
+        "team": " ",
+        "builder": "Josh Kubiak",
+        "class": "3lb",
+        "botname": "Recycler"
+    },
+    {
+        "team": "Team Clyde",
+        "builder": "Gabriel Brown",
+        "class": "3lb",
+        "botname": "Clyde"
+    },
+    {
+        "team": " ",
+        "builder": "Brian Boxell",
+        "class": "3lb",
+        "botname": "Eruption"
+    },
+    {
+        "team": "Team Defective",
+        "builder": "Zack Knight",
+        "class": "12lb",
+        "botname": "Krunk"
+    },
+    {
+        "team": "Team Defective",
+        "builder": "Matt Luther",
+        "class": "12lb",
+        "botname": "Blue Cheese"
+    },
+    {
+        "team": " ",
+        "builder": "Sarah Pohorecky",
+        "class": "3lb",
+        "botname": "Rachet"
+    },
+    {
+        "team": "Omega Team",
+        "builder": "Anna Zolnikov",
+        "class": "30lb",
+        "botname": "RIPperoni"
+    },
+    {
+        "team": "Team Red Hawk",
+        "builder": "Josh Belanger",
+        "class": "3lb",
+        "botname": "Red Hawk"
+    },
+    {
+        "team": " ",
+        "builder": "ANTHONY D'AMBROSIO",
+        "class": "3lb",
+        "botname": "Blackbird"
+    },
+    {
+        "team": " ",
+        "builder": "William Marchese",
+        "class": "3lb",
+        "botname": "Sea Dragon's Roar"
+    },
+    {
+        "team": "SUNY Polytechnic",
+        "builder": "John Hafner",
+        "class": "12lb",
+        "botname": "Herbie"
+    },
+    {
+        "team": "Noot Noot Robotics",
+        "builder": "Brian Boxell",
+        "class": "30lb",
+        "botname": "Waddles!"
+    },
+    {
+        "team": " ",
+        "builder": "Christian Cooper",
+        "class": "30lb",
+        "botname": "Polyester"
+    },
+    {
+        "team": " ",
+        "builder": "Christian Cooper",
+        "class": "3lb",
+        "botname": "Tothik"
+    },
+    {
+        "team": "Omega Team",
+        "builder": "Brandon Zalinsky",
+        "class": "30lb",
+        "botname": "Starfather"
+    },
+    {
+        "team": " ",
+        "builder": "Jamie Reilly",
+        "class": "3lb",
+        "botname": "Razor Storm"
+    },
+    {
+        "team": "Omega Team",
+        "builder": "Frederick Moore",
+        "class": "30lb",
+        "botname": "Marathon"
+    },
+    {
+        "team": "Underdog Robotics",
+        "builder": "Justin Smith",
+        "class": "3lb",
+        "botname": "Kalma"
+    },
+    {
+        "team": "Team Shreddit",
+        "builder": "Evan Arias",
+        "class": "3lb",
+        "botname": "Shreddit Bro"
+    },
+    {
+        "team": " ",
+        "builder": "Joshua kurmai",
+        "class": "3lb",
+        "botname": "Underbit3"
+    },
+    {
+        "team": "Cabbage Corps",
+        "builder": "Lucy Du",
+        "class": "12lb",
+        "botname": "HotLeafJuice"
+    },
+    {
+        "team": " ",
+        "builder": "Lucas Buermeyer",
+        "class": "3lb",
+        "botname": "Sepi01"
+    },
+    {
+        "team": " ",
+        "builder": "Jamison Go",
+        "class": "30lb",
+        "botname": "MegatRON"
+    },
+    {
+        "team": "UH huh",
+        "builder": "Douglas Lilly",
+        "class": "3lb",
+        "botname": "Utilitarian Hoar"
+    },
+    {
+        "team": "Enginyte",
+        "builder": "Matthew Ramirez",
+        "class": "30lb",
+        "botname": "Butter"
+    },
+    {
+        "team": "Combat Robotics @ Cornell",
+        "builder": "Ricky Wang",
+        "class": "12lb",
+        "botname": "Richard"
+    },
+    {
+        "team": "Combat Robotics @ Cornell",
+        "class": "12lb Sportsman",
+        "botname": "Lance"
+    },
+    {
+        "team": "Team WPI",
+        "builder": "William Stanley",
+        "class": "12lb",
+        "botname": "Teleport"
+    },
+    {
+        "team": " ",
+        "builder": "David Jin",
+        "class": "3lb",
+        "botname": "Polywog"
+    },
+    {
+        "team": "Science Skills Center HS",
+        "builder": "Michael Schaffer",
+        "class": "3lb",
+        "botname": "Arr See Saw"
+    },
+    {
+        "team": "Team LiftOff",
+        "builder": "Jim Kazmer",
+        "class": "3lb",
+        "botname": "Project LiftOff"
+    },
+    {
+        "team": "Team Shrew",
+        "builder": "Issey Cao",
+        "class": "3lb",
+        "botname": "The Shrew"
+    },
+    {
+        "team": "Team Already Broke",
+        "builder": "Dominic Yankauskas",
+        "class": "30lb",
+        "botname": "Dragon Princess"
+    },
+    {
+        "team": "Team Already Broke",
+        "class": "30lb",
+        "botname": "Stop Hitting Yourself"
+    },
+    {
+        "team": "Team Already Broke",
+        "class": "30lb",
+        "botname": "Litter Box"
+    },
+    {
+        "team": "Team Already Broke",
+        "class": "3lb",
+        "botname": "Murple"
+    },
+    {
+        "team": " ",
+        "builder": "Stephen Boggess",
+        "class": "3lb",
+        "botname": "Wormhole"
+    },
+    {
+        "team": "Rum Runners",
+        "builder": "Jeremy Winn",
+        "class": "3lb",
+        "botname": "Red Beard"
+    },
+    {
+        "team": " ",
+        "builder": "Ed Lundblad",
+        "class": "12lb Sportsman",
+        "botname": "Woody II"
+    },
+    {
+        "team": " ",
+        "builder": "Ed Lundblad",
+        "class": "12lb",
+        "botname": "Woody II"
+    },
+    {
+        "team": "Team Azrael",
+        "builder": "Teo Patrosio",
+        "class": "3lb",
+        "botname": "Azrael"
+    },
+    {
+        "team": "Fingers Crossed",
+        "builder": "Tom Jaeger",
+        "class": "3lb",
+        "botname": "Shoestring"
+    },
+    {
+        "team": " ",
+        "builder": "Ian MacInerney",
+        "class": "3lb",
+        "botname": "Fully Defined"
+    },
+    {
+        "team": " ",
+        "builder": "Elizabeth Cao",
+        "class": "3lb",
+        "botname": "Mitty"
+    },
+    {
+        "team": " ",
+        "builder": "Elizabeth Cao",
+        "class": "3lb",
+        "botname": "Drum Go Dum"
+    },
+    {
+        "team": "LABB",
+        "builder": "Ryan Ferdinand",
+        "class": "30lb",
+        "botname": "Dark Horse"
+    },
+    {
+        "team": "DEISy Robotics",
+        "builder": "Nathan Cai",
+        "class": "3lb",
+        "botname": "The Chort"
+    },
+    {
+        "team": "DEISy Robotics",
+        "builder": "Tim Hebert",
+        "class": "3lb",
+        "botname": "Chubby Unicorn"
+    },
+    {
+        "team": "DEISy Robotics",
+        "builder": "Daniel A. Dischino",
+        "class": "3lb",
+        "botname": "Michael the Robot"
+    },
+    {
+        "team": "DEISy Robotics",
+        "builder": "Mason Price",
+        "class": "3lb",
+        "botname": "Da Dum Tsss"
+    },
+    {
+        "team": "NU Robotics Club",
+        "builder": "Sam Petralia",
+        "class": "30lb",
+        "botname": "James"
+    },
+    {
+        "team": "NU Robotics Club",
+        "class": "30lb",
+        "botname": "Jammy"
+    },
+    {
+        "team": "What's Up, Danger?",
+        "builder": "Andrew Davis",
+        "class": "3lb",
+        "botname": "Jack Move"
+    },
+    {
+        "team": "What's Up, Danger?",
+        "class": "3lb",
+        "botname": "Jack Rabbit"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Simply Flawed"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Kinda Average"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Dinky Bot"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Fe Fan"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Uch Funt"
+    },
+    {
+        "team": "CyBears",
+        "builder": "Bad Crew Team Member",
+        "class": "3lb",
+        "botname": "Scab Armour"
+    },
+    {
+        "team": "Team Stamina Robotix",
+        "builder": "Johnny Tsoumpas",
+        "class": "3lb",
+        "botname": "Spartan"
+    }
+]

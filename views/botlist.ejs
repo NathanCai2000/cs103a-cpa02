@@ -1,0 +1,27 @@
+<h1>Sorted Robots</h1>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Robot</th>
+            <th>Team</th>
+            <th>Builder</th>
+            <th>Weightclass</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+    <% for (robot of robots) {
+        const name = robot['botname'];
+        const team = robot['team'];
+        const buil = robot['builder'];
+        const class = robot['class'];
+         %>
+      <tr class="mb-2"> 
+        <td><%= robot['botname'] %></td>
+        <td><%= robot['team'] %></td>
+        <td><%= robot['builder'] %></td>
+        <td><%= robot['class'] %></td>
+
+    </tr>
+    <% } %>
+    </tbody>
+</table>
